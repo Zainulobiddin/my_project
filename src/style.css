@@ -1,0 +1,13 @@
+.img_bg {
+    background-image: url('./img_zainulobiddin/background.svg');
+    width: 100%;
+    height: 468px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.img_bg1 {
+    max-width: 1200px;
+    margin: auto;
+    height: 243px;
+}
